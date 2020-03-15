@@ -43,3 +43,25 @@ https://nodejs.dev/working-with-file-descriptors-in-nodejs
 path and filesystem 
 https://nodejs.dev/the-nodejs-path-module
 
+events for nodejs
+https://nodejs.dev/the-nodejs-events-module
+
+need to know 
+https://nodejs.dev/the-nodejs-http-module
+
+buffer
+https://nodejs.dev/nodejs-buffers
+
+streams and pipe
+https://nodejs.dev/nodejs-streams
+
+production vs. development (needed for cleanig, sued with git)
+https://nodejs.dev/nodejs-the-difference-between-development-and-production
+
+errors 
+https://nodejs.dev/error-handling-in-nodejs
+
+objects
+https://nodejs.dev/how-to-log-an-object-in-nodejs
+
+
