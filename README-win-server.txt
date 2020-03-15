@@ -40,4 +40,6 @@ https://nodejs.dev/making-http-requests-with-nodejs
 working with descriptors
 https://nodejs.dev/working-with-file-descriptors-in-nodejs
 
+path and filesystem 
+https://nodejs.dev/the-nodejs-path-module
 
